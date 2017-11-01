@@ -61,6 +61,12 @@ In addition to the provided test_1, these tests have been added:
 * test_no_or_invalid_zipcode: No zipcodes or invalid zipcodes
 * test_invalid_dates: Invalid dates
 
+### Unit Tests
+
+Run unit tests for checkDate function (`test_find_political_donors.py`) from within the `insight_testsuite` folder
+    
+    insight_testsuite~$ python test_find_political_donors.py
+
 
 ## Solution Utilizes
 
